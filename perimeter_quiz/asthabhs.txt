@@ -1,0 +1,10 @@
+example 16
+example2 24
+datatest1 30.6446
+datatest2 30
+datatest3 43.976
+datatest4 59.456
+datatest5 62.650
+datatest6 55.969
+example3 28.848
+example4 23.184
